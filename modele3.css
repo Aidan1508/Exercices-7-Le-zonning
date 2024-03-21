@@ -1,0 +1,23 @@
+#conteneur{ width: 1000px; 
+       margin: 0 auto;
+}
+
+.gauche{ background: #40A497;
+       height: 400px;
+       width: 500px;
+       float: left;
+}
+
+.droite{ background:#9A40A4;
+       height: 400px;
+       width: 500px;
+       float: left; 
+}
+
+footer{ background: #F0C000;
+        height: 80px;
+        width: 1000px; 
+}
+
+.clear{ clear: both; 
+}
